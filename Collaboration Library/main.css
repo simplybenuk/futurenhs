@@ -1,0 +1,96 @@
+.above-nav {
+    padding: 10px 20px;
+  }
+
+.workspace-nav {
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.workspace-nav a {
+  color: black;
+  margin: 0 5px;
+}
+
+.workspace-nav a:hover {
+  text-decoration: none;
+}
+
+.nhs-logo {
+  float: right;
+}
+
+.nav-inner {
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.nav-inner a {
+  color: white;
+  margin: 0 5px;
+}
+
+.nav-inner a:hover {
+  color:#EDB31E;
+  text-decoration: none;
+}
+
+.right-nav {
+  text-align: right;
+}
+
+.right-nav .badge {
+  margin-left: 5px;
+}
+
+.futurenhs-footer {
+  text-align: center;
+  background-color: #D8DDE0;
+  padding-bottom:20px;
+}
+
+.futurenhs-footer hr {
+  border-top: solid 4px #EDB31E;
+}
+
+.futurenhs-footer a {
+  color: black;
+}
+
+.futurenhs hr {
+  border-top: solid 2px #EDB31E;
+}
+
+.article-header {
+  margin-top: 30px;
+}
+
+.comment-card {
+  background-color: #F0F0F0;
+  padding: 20px;
+  margin-bottom: 10px;
+}
+
+.comment-card-left {
+  display: inline-block;
+  vertical-align: top
+}
+
+.comment-card-left img {
+  border-radius: 50%;
+  width: 50px;
+  max-height: 50px;
+  object-fit: cover;
+}
+
+.comment-card-right {
+  display: inline-block;
+  margin-left: 50px;
+  word-wrap: break-word;
+}
+
+.comment-card-right p {
+  text-overflow:
+}
