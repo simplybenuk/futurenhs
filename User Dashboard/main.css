@@ -1,0 +1,157 @@
+
+.above-nav {
+    padding: 10px 20px;
+  }
+
+.workspace-nav {
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.workspace-nav a {
+  color: black;
+  margin: 0 5px;
+}
+
+.workspace-nav a:hover {
+  text-decoration: none;
+}
+
+.nhs-logo {
+  float: right;
+}
+
+.nav-inner {
+  max-width: 1400px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.nav-inner a {
+  color: white;
+  margin: 0 5px;
+}
+
+.nav-inner a:hover {
+  color:#EDB31E;
+  text-decoration: none;
+}
+
+.right-nav {
+  text-align: right;
+}
+
+.right-nav .badge {
+  margin-left: 5px;
+}
+
+.futurenhs-footer {
+  text-align: center;
+  background-color: #D8DDE0;
+  padding-bottom:20px;
+}
+
+.futurenhs-footer hr {
+  border-top: solid 4px #EDB31E;
+}
+
+.futurenhs-footer a {
+  color: black;
+}
+
+.futurenhs hr {
+  border-top: solid 2px #EDB31E;
+}
+
+.futurenhs .badge-pill {
+    margin-left: 5px;
+}
+
+
+/* PAGE CSS BELOW HERE */
+
+.box {
+  border: 1px solid #D3D3D3;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.profile-pic {
+  width: 125px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.profile-box-left {
+  display: inline-block;
+  text-align: center;
+}
+
+.profile-box-right {
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 50px;
+  max-width: 100%;
+}
+
+.workspace-links-box {
+  border: 1px solid #D3D3D3;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.card {
+  margin-top: 10px
+}
+
+.profile-pic-small {
+  width: 40px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.card-header-left {
+  display: inline-block;
+  vertical-align: top;
+}
+.card-header-right {
+  display: inline-block;
+}
+
+.card-header-right p {
+  margin-bottom: 0;
+}
+
+.mail {
+  border: 1px solid #D3D3D3;
+  border-radius: 5px;
+  padding: 20px 0 0;
+  margin-top: 20px;
+}
+
+.new-mesages {
+  margin-bottom: 10px;
+}
+
+.event-left {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.event-right {
+  display: inline-block;
+  max-width: 70%;
+  padding-left: 10px;
+}
+
+.news {
+  height: 216px;
+  border: 2px solid #D3D3D3;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 20px;
+
+}
